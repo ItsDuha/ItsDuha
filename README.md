@@ -2,7 +2,7 @@
 
 I’m **Duha**, a programmer based in Bahrain.
 
-I build web backend systems and enjoy solving complex problems.
+I build web backend systems and enjoy learning how to solve problems.
 
 **Tech Stack:** C#, ASP.NET Core, SQL Server, JS, HTML, CSS, and RESTful APIs.
 
